@@ -1,0 +1,24 @@
+{
+  "name": "automatic-node-oauth2",
+  "version": "1.0.0",
+  "description": "An Automatic API client library written in Node.js.",
+  "main": "automatic-api-client.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbmccormick/automatic-node"
+  },
+  "keywords": [
+    "Automatic",
+    "Node"
+  ],
+  "author": "Matt McCormick <matt@mbmccormick.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbmccormick/fitbit-node/issues"
+  },
+  "dependencies": {
+    "simple-oauth2": "^0.5.1",
+    "q": "^1.4.1",
+    "request": "^2.69.0"
+  }
+}
