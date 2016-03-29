@@ -1,7 +1,7 @@
 var express = require('express'),
     app = express();
 
-var AutomaticApiClient = require('./automatic-api-client'),
+var AutomaticApiClient = require('automatic-node-oauth2'),
     client = new AutomaticApiClient('YOUR_CLIENT_ID', 'YOUR_CLIENT_SECRET');
 
 app.get('/authorize', function (req, res) {

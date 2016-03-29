@@ -3,8 +3,8 @@
 An API client library written for Automatic in NodeJS.
 
 ## Usage
-1. `npm install automatic-node`
-1. (In your JS file) `var AutomaticApiClient = require("automatic-node");`
+1. `npm install automatic-node-oauth2`
+1. (In your JS file) `var AutomaticApiClient = require("automatic-node-oauth2");`
 
 ## API
 

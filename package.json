@@ -1,6 +1,6 @@
 {
   "name": "automatic-node-oauth2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Automatic API client library written in Node.js.",
   "main": "automatic-api-client.js",
   "repository": {
