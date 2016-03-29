@@ -12,7 +12,7 @@
     "Node"
   ],
   "author": "Matt McCormick <matt@mbmccormick.com>",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/mbmccormick/fitbit-node/issues"
   },
@@ -20,5 +20,8 @@
     "simple-oauth2": "^0.5.1",
     "q": "^1.4.1",
     "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "express": "^4.13.4"
   }
 }
